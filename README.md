@@ -12,9 +12,6 @@ Fontes utilizadas:
 - Comunidade: https://www.pexels.com/photo/people-volunteering-6646949/
 - Doação: https://www.pexels.com/photo/a-person-carrying-a-box-of-donations-7156174/
 
-As páginas foram estruturadas para a etapa de HTML5. CSS3 e JavaScript podem ser adicionados posteriormente.
-
-
 ## Interatividade JavaScript
 A página `cadastro.html` usa `js/script.js` para máscaras de CPF, telefone e CEP, validação dos dígitos verificadores do CPF, data de nascimento, contador de caracteres e feedback acessível.
 
