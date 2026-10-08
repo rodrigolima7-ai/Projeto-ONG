@@ -2,9 +2,6 @@
 
 Esta versão usa **fotografias reais de banco de imagens gratuito do Pexels**, em vez de ilustrações artificiais.
 
-## Importante sobre as imagens
-As fotos são carregadas diretamente dos servidores do Pexels por URL. Portanto, ao abrir os HTML localmente, o computador precisa estar conectado à internet.
-
 Fontes utilizadas:
 - Educação: https://www.pexels.com/photo/a-teacher-teaching-the-students-in-the-classroom-8923042/
 - Doações de alimentos: https://www.pexels.com/photo/people-donating-food-to-a-charity-6995220/
